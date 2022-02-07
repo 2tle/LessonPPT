@@ -1,2 +1,4 @@
 # LessonPPT
-This repository is my lesson ppt
+This is a repository that collects my class ppt.
+
+DO NOT USE THIS WITHOUT MY PERMIT
